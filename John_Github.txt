@@ -1,0 +1,9 @@
+John
+
+Below is the status:
+1. I am able to create account on my name
+2. Created project and uploaded a file
+3. I can able to share the file to share others
+
+
+
